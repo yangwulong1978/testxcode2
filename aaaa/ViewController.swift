@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         var rr:Int
         
         var 333
+        var 444
     }
 
     override func didReceiveMemoryWarning() {
